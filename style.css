@@ -9,7 +9,9 @@ body {
     
     /* overflow: hidden; Prevent scrolling */
 }
-
+.hero-left a{
+    text-decoration: none;
+}
 /* Navbar */
 .navbar {
   display: flex;
@@ -95,6 +97,7 @@ body {
   font-size: 14px;
   font-weight: 600;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .hero-right img {
@@ -691,4 +694,5 @@ input{
     gap: 20px;
   }
 }
+
 
