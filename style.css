@@ -9,7 +9,7 @@ body {
     
     /* overflow: hidden; Prevent scrolling */
 }
-.hero-left a{
+ a{
     text-decoration: none;
 }
 /* Navbar */
@@ -694,5 +694,6 @@ input{
     gap: 20px;
   }
 }
+
 
 
